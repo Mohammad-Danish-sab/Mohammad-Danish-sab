@@ -27,14 +27,6 @@
   <img src="https://skillicons.dev/icons?i=React,Python,FastAPI,Node.js,Express.js,MySQL,MongoDB,Pydantic,CSS,TailwindCSS,JavaScript,Pandas,numpy,HTML,Postrgresql,LLM,RAG,Langchain&perline=8"/>
 </p>
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=React,Python,FastAPI,Node.js,Express.js,MySQL,MongoDB,Pydantic,CSS,TailwindCSS,JavaScript,Pandas,numpy,HTML,Postrgresql,LLM,RAG,Langchain&perline=8"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=Git,GIthub,Docker,Postman,Axios,JWT,Canva,VSCode&perline=8"/>
-</p>
-
 ## 🔨 Projects
 
 - **[Chai-Pijiaga](https://github.com/Mohammad-Danish-sab/Chai-Pijiaga)** — CafeFlow is a backend-only cafe management and ordering system built with FastAPI and Neon PostgreSQL. It provides secure authentication, menu and stock management, cart and order processing, table booking with conflict prevention, admin controls, automatic total calculation, and PDF bill generation.
