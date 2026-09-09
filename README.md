@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad Danish&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning coffee into code ☕&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohammad Danish+👋;Full Stack Developer & AI Engineer;Turning coffee into code ☕" alt="Typing SVG"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-danish-sab" alt="mohammad-danish-sab" /></a> </p>
+## ⌨️ About Me
 
-<p align="left"> <a href="https://twitter.com/danishsab05" target="blank"><img src="https://img.shields.io/twitter/follow/danishsab05?logo=twitter&style=for-the-badge" alt="danishsab05" /></a> </p>
-
-- 🔭 I’m currently working on **Insurance Premium Prediction System**
-
-- 🌱 I’m currently learning **React, Node.js, Python, FastAPI, and AI**
-
-- 👯 I’m looking to collaborate on **Full-Stack & AI-based Projects**
-
-- 🤝 I’m looking for help with **Advanced Backend & AI Model Deployment**
-
-- 💬 Ask me about **JavaScript, React, FastAPI, and Web Development**
-
-- 📫 How to reach me **danish.sab05@gmail.com**
-
-- ⚡ Fun fact **I love building real-world projects and solving problems with code 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danishsab05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danishsab05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-danish14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-danish14" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full%20Stack%20Developer%20%26%20AI%20Engineer%3BTurning%20coffee%20into%20code%20%E2%98%95%3BBuilding%20Building%20full-stack%20applications%2C%20exploring%20AI%20%26%20LLMs%2C%20and%20learning%20how%20to%20turn%20ideas%20into%20real-world%20software." alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🤝 Connect with me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-danish-sab&show_icons=true&locale=en&layout=compact" alt="mohammad-danish-sab" /></p>
+<p align="center">
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammad-Danish-sab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-danish14/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish.sab05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-one-lemon-1yrwz2zdgl.vercel.app/)
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-danish-sab&" alt="mohammad-danish-sab" /></p>
+## 🧑‍💻 About Me
+
+| | |
+|:--|:--|
+| 🔭 **Working on** | Building full-stack applications, exploring AI & LLMs, and learning how to turn ideas into real-world software. |
+| 🌱 **Learning** | RAG, Langchain, & Langgraph |
+| 📍 **Location** | YOUR_CITY, YOUR_COUNTRY |
+| 💼 **Role** | Full Stack Developer & AI Engineer |
+| 📫 **Email** | YOUR_EMAIL |
+| ⚡ **Fun fact** | YOUR_FUN_FACT |
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=React,Python,FastAPI,Node.js,Express.js,MySQL,MongoDB,Pydantic,CSS,TailwindCSS,JavaScript,Pandas,numpy,HTML,Postrgresql,LLM,RAG,Langchain&perline=8" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Mohammad-Danish-sab&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Mohammad-Danish-sab&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 💡 Top Languages
+
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Mohammad-Danish-sab&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Danish-sab&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Danish-sab&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Mohammad-Danish-sab">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Danish-sab&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+## 🚀 Featured Projects
+
+- **[Chai-Pijiaga](https://github.com/Mohammad-Danish-sab/Chai-Pijiaga)** — CafeFlow is a backend-only cafe management and ordering system built with FastAPI and Neon PostgreSQL. It provides secure authentication, menu and stock management, cart and order processing, table booking with conflict prevention, admin controls, automatic total calculation, and PDF bill generation.
+- **[insurence-premium-predictor](https://insurence-premium-predictor.vercel.app/)** — • Developed a medical insurance premium predictor using Python and FastAPI to automate health insurance cost estimations • Implemented JWT authentication, password hashing, routes and user profiles for secure application access and data protection • Integrated machine-learning prediction using age, BMI, smoking, gender, and children count through FastAPI REST APIs • Built prediction history with PostgreSQL and SQLAlchem to store, retrieve, and review previous insurance predictions • Managed project dependencies and version control using Git, GitHub, vercel, Render, and modular Python package structures
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+## 🛠️ Skills
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-6E40C9?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-6E40C9?style=for-the-badge&logo=expressjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6E40C9?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-6E40C9?style=for-the-badge&logo=pydantic&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-6E40C9?style=for-the-badge&logo=css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-6E40C9?style=for-the-badge&logo=html&logoColor=white) ![Postrgresql](https://img.shields.io/badge/-Postrgresql-6E40C9?style=for-the-badge&logo=postrgresql&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-6E40C9?style=for-the-badge&logo=llm&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-6E40C9?style=for-the-badge&logo=rag&logoColor=white) ![Langchain](https://img.shields.io/badge/-Langchain-6E40C9?style=for-the-badge&logo=langchain&logoColor=white) ![Git](https://img.shields.io/badge/-Git-6E40C9?style=for-the-badge&logo=git&logoColor=white) ![GIthub](https://img.shields.io/badge/-GIthub-6E40C9?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-6E40C9?style=for-the-badge&logo=postman&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-6E40C9?style=for-the-badge&logo=axios&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-6E40C9?style=for-the-badge&logo=jwt&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-6E40C9?style=for-the-badge&logo=canva&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-6E40C9?style=for-the-badge&logo=vscode&logoColor=white)
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Danish-sab&style=flat-square&color=00FF41" alt="Profile views"/>
+</p>
+
+## ✨ Quote
+
+> “Great software starts with a simple idea.”
